@@ -30,7 +30,7 @@ in JSON format and all the data will be stored in the MongoDB.
 ## For Example :
 Following is a sample CV/Resume PDF file
 
-[Download PDF File](ResumeDocs\sample_resume1.pdf)
+[Download PDF File](https://github.com/aadhartg/AI_resume_extractor/blob/master/ResumeDocs/sample_resume1.pdf)
 
 And this is the data extracted from the pdf file all the information described as above :
 
