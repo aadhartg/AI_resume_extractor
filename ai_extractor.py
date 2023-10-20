@@ -1,9 +1,8 @@
 import openai
 import json
-from open_ai_key import OPENAI_KYE
 from db_connection import connect_to_mongodb
 
-openai.api_key = OPENAI_KYE
+openai.api_key = "Add your OPENAI_API key here"
 
 class Responce:
     """
