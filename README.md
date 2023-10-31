@@ -54,11 +54,11 @@ in JSON format and all the data will be stored in the MongoDB.
 ## For Example :
 Following is a sample CV/Resume PDF file
 
-[View PDF]([ResumeDocs\sample_resume1.pdf](https://github.com/aadhartg/AI_resume_extractor/blob/main/ResumeDocs/sample_resume1.pdf))
+[View PDF](https://github.com/aadhartg/AI_resume_extractor/blob/main/ResumeDocs/sample_resume1.pdf)
 
 And this is the data extracted from the pdf file all the information described as above :
 
-json
+```json
 {
     "candidate_personal_info": {
         "name": "James Bond",
@@ -115,5 +115,5 @@ json
         "Prevented the use of the Goldeneye satellite weapon system by a rogue agent to cause global financial chaos"
     ]
 }
-
+```
 
