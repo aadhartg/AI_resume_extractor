@@ -1,5 +1,6 @@
 # Description of the Project
-This Project provides a tool for extracting information from CVs/Resumes (only in PDF format) using the OpenAI Chat API and storing the results in a MongoDB collection.
+This Project provides a tool for extracting information from CVs/Resumes (only in PDF format) using the OpenAI Chat API and storing the results in a MongoDB collection. 
+Along with that I have also implemented langChain for the same in file "ai_extractor_langchain.py" 
 
 ## Dependencies
 1. openai: OpenAI Python library for API interactions
